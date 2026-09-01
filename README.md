@@ -1,4 +1,4 @@
-# 🎀 Hi there, I'm Paldee! ʕ•ᴥ•ʔ✨
+# 🎀 Hi there, I'm Paldee! ᕕ( ᐛ )ᕗ✨
 
 **Data Science & Business Analytics Student @ KMITL** 🏫 |
 
