@@ -4,7 +4,7 @@
 
 Welcome to my GitHub space! ~ I'm currently a 3rd-year Data Science student at KMITL (with a 3.91 GPA, yay!). I love turning complex data into impactful stories, building AI tools, designing data pipelines, and hunting for new experiences at hackathons. 🚀
 
-### 🛠️ Tech Stack & Tools (My Weapons of Choice)
+### 🛠️ Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -26,9 +26,9 @@ Welcome to my GitHub space! ~ I'm currently a 3rd-year Data Science student at K
 - 🎖️ **Honorable Mention (Top 8)** - *AFTERKLASS AI Hackathon* (Pitched "O-Guard", an AI upskilling platform for social good)
 
 ### 📂 My Favorite Projects
-- 🧠 **Agentic BI SQL Analyst System:** Built an AI-driven workflow with Python and Gemini LLM that translates Text-to-SQL and auto-generates charts, cutting down API calls and query-to-viz time!
-- 🛳️ **Ocean Data Framework:** Applied ML models (like XGBoost and Random Forest) to track vessels and identify suspicious behaviors using composite ocean datasets.
-- 🍲 **Shabu POS System:** Designed an end-to-end POS system for a Shabu restaurant, handling everything from SQLite database normalization to the Node.js backend.
+- **Agentic BI SQL Analyst System:** Built an AI-driven workflow with Python and Gemini LLM that translates Text-to-SQL and auto-generates charts, cutting down API calls and query-to-viz time!
+- **Ocean Data Framework:** Applied ML models (like XGBoost and Random Forest) to track vessels and identify suspicious behaviors using composite ocean datasets.
+- **Shabu POS System:** Designed an end-to-end POS system for a Shabu restaurant, handling everything from SQLite database normalization to the Node.js backend.
 
 ### 🌱 Currently Doing & Looking for...
 - 👩‍🏫 Currently a Teaching Assistant for Database Systems and the DATA & AI Camp at my faculty.
