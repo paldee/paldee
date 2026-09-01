@@ -34,4 +34,10 @@ Welcome to my GitHub space! ~ I'm currently a 3rd-year Data Science student at K
 - 👩‍🏫 Currently a Teaching Assistant for Database Systems and the DATA & AI Camp at my faculty.
 - 🔍 **Looking for an Internship!** I'm actively seeking opportunities in Data Engineering or Data Science to apply my skills to real business problems. If you're looking for a passionate data enthusiast, feel free to reach out! ~
 
+### 📫 Let's Connect!
+<a href="mailto:pparadee.pimolekaksorn@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
 > SELECT * FROM life WHERE sleep_hours > 8; ...0 rows returned.
+
